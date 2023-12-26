@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+articulo.mercadolibre.com.mx	TRUE	/	FALSE	1999999999	_d2id	15d40902-ab9a-4f9d-84db-e458a4bb0743-n
+articulo.mercadolibre.com.mx	TRUE	/	FALSE	1999999999	_csrf	P0JXumg80MsMWM8jtW-DYsy8
+.mercadolibre.com.mx	TRUE	/	FALSE	1999999999	navigation_items	MLM2775067636%7C26122023051437
+articulo.mercadolibre.com.mx	TRUE	/	FALSE	1999999999	c_ui-navigation	6.5.16
+articulo.mercadolibre.com.mx	TRUE	/	FALSE	1999999999	SameSite	None
+
